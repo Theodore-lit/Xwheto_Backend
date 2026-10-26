@@ -47,3 +47,14 @@ urllib3==2.7.0
 uvicorn==0.52.4
 watchfiles==1.2.0
 websockets==17.1
+
+# Testing
+pytest==8.3.0
+pytest-asyncio==0.24.0
+aiosqlite==3.2.0
+
+# Code quality (optional)
+black==24.10.0
+flake8==7.1.1
+isort==5.13.2
+mypy==1.13.0
